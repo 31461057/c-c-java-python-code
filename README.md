@@ -9,6 +9,7 @@
 [uva913](https://github.com/31461057/c-c-java-python-code/blob/main/uva913.c)
 [uva10018](https://github.com/31461057/c-c-java-python-code/blob/main/uva10018.c)
 [uva130](https://github.com/31461057/c-c-java-python-code/blob/main/uva130.cpp)
+[uva160](https://github.com/jes-git-account/c-c-java-python-code/blob/main/uva160.c)
 [uva103s3](https://github.com/31461057/c-c-java-python-code/blob/main/uva103s3.c)
 [uva104s4](https://github.com/31461057/c-c-java-python-code/blob/main/uva104s3.c)
 [uva100](https://github.com/31461057/c-c-java-python-code/blob/main/uva100.cpp)
