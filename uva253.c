@@ -11,9 +11,6 @@ int main(){
 		y=0;
 	}
 	else{
-		for(i=0;i<12;i++){
-		
-		}
 		printf("false\n");
 	}
 	while(y==0){
@@ -36,7 +33,7 @@ int main(){
 	else{
 		printf("false\n");
 		break;
-	} 
+	}
 }
 	y=1;z=0;
 	}
