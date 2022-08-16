@@ -14,6 +14,10 @@ int main(){
 		printf("false\n");
 	}
 	while(y==0){
+	if(f[1]==f[7]&&f[2]==f[8]&&f[3]==f[9]&&f[4]==f[10]){
+		printf("true\n");
+		break;
+	}
 	for(j=1;j<=3;j++){
 	c=f[1];
 	f[1]=f[2];
