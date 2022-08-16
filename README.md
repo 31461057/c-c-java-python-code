@@ -15,4 +15,5 @@
 [uva100](https://github.com/31461057/c-c-java-python-code/blob/main/uva100.cpp)
 [uva151](https://github.com/31461057/c-c-java-python-code/blob/main/uva151c%2B%2B.cpp)
 [uva272](https://github.com/31461057/c-c-java-python-code/blob/main/uva272.cpp)
+[uva253](https://github.com/jes-git-account/c-c-java-python-code/blob/main/uva253.c)
 [cpe0526](https://github.com/31461057/c-c-java-python-code/blob/main/uva0526c%2B%2B.cpp)
